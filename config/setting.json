@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "main",
+    "cname": "",
+    "domain": "https://7doger.github.io",
+    "email": "bili@bili.ren",
+    "platform": "github",
+    "privateKey": "",
+    "repository": "7doger.github.io",
+    "token": "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",
+    "username": "7doger"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
